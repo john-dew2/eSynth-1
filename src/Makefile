@@ -54,7 +54,6 @@ DEPS = EdgeAggregator.h \
 	MinimalMolecule.h \
 	SmiMinimalMolecule.h \
 	FixedSortedList.h \
-	EdgeAggregator.h \
 	zpipe.h \
 	bloom_filter.hpp
 
@@ -81,7 +80,6 @@ _OBJ = Atom.o \
 	Options.o \
 	obgen.o \
 	Constants.o \
-	EdgeAggregator.o \
 	zpipe.o
 
 
