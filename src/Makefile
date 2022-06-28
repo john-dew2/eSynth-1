@@ -50,6 +50,7 @@ DEPS = EdgeAggregator.h \
 	Thread_Pool.h \
 	Constants.h \
 	LevelHashMap.h \
+	IdFactory.h \
 	LikeMoleculesContainer.h \
 	MinimalMolecule.h \
 	SmiMinimalMolecule.h \
@@ -74,6 +75,7 @@ _OBJ = Atom.o \
 	ConnectableAtom.o \
 	LinkerConnectableAtom.o \
 	BrickConnectableAtom.o \
+	IdFactory.o \
 	Bond.o \
 	AtomT.o \
 	OBWriter.o \
