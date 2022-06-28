@@ -187,10 +187,10 @@
 		//std::cout << "Here is the brickMap: " << std::endl << brickMap
 		
 		std::cout<<"Brick Map contents: " << std::endl;
-		toString(brickMap);
+		printMap(brickMap);
 		
 		std::cout<<"Linker Map contents: " << std::endl;
-		toString(linkerMap);
+		printMap(linkerMap);
 		//std::cout << "Here is the linkerMap: " << std::endl << linkerMap
 		
 	}
