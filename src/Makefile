@@ -49,13 +49,11 @@ DEPS = EdgeAggregator.h \
 	obgen.h \
 	Thread_Pool.h \
 	Constants.h \
-	LevelHashMap.h \
 	IdFactory.h \
 	LikeMoleculesContainer.h \
 	MinimalMolecule.h \
 	SmiMinimalMolecule.h \
 	FixedSortedList.h \
-	EdgeDatabase.h \
 	zpipe.h \
 	bloom_filter.hpp
 
